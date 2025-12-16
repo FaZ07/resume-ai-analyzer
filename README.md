@@ -89,22 +89,27 @@ Final Score = (Skill Score × 0.6) + (Semantic Score × 0.4)
   ]
 }
 
-▶️ Run Locally
+## 🚀 Running the Project
 
-Backend
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn app.main:app --port 8001
+### Backend (FastAPI)
 
-Frontend
+```
+cd app
+uvicorn main:app --port 8001 --reload
+API will be available at:
+http://localhost:8001
+Frontend (React + Vite)
 cd frontend
 npm install
 npm run dev
 
-Open http://localhost:5173
 
-🧪 Use Cases
+Open in browser:
+
+http://localhost:5173
+```
+
+✨ Use Cases
 
 Resume self-analysis
 
@@ -124,7 +129,7 @@ Cloud deployment
 
 Skill learning roadmap generation
 
-👨‍💻 Author
+👤 Author
 
 FaZ07
 GitHub: https://github.com/FaZ07
