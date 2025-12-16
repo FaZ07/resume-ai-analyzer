@@ -18,30 +18,27 @@ https://github.com/FaZ07/resume-ai-analyzer
 - Top job-role recommendations
 - Full-stack implementation (FastAPI + React)
 
----
-
-## 🏗️ Project Structure
-
+## Structure
 resume-ai-analyzer/
 ├── app/
-│ ├── main.py
-│ ├── resume_parser.py
-│ ├── skill_extractor.py
-│ ├── matcher.py
-│ ├── semantic_matcher.py
-│ └── job_data.json
+│   ├── main.py
+│   ├── resume_parser.py
+│   ├── skill_extractor.py
+│   ├── matcher.py
+│   ├── semantic_matcher.py
+│   └── job_data.json
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │ └── index.css
-│ └── package.json
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   ├── package.json
+│   └── README.md
 │
+├── .gitignore
 └── README.md
 
-
----
 
 ## ⚙️ Tech Stack
 
