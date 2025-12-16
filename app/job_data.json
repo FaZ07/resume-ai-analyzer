@@ -1,0 +1,44 @@
+{
+  "Machine Learning Engineer": {
+    "skills": [
+      "python",
+      "machine learning",
+      "sql",
+      "aws",
+      "nlp"
+    ],
+    "description": "Machine Learning Engineer responsible for building, training, and deploying machine learning models. Works on data preprocessing, feature engineering, model evaluation, and scalable ML pipelines using Python, cloud platforms, and NLP techniques."
+  },
+
+  "Backend Developer": {
+    "skills": [
+      "python",
+      "java",
+      "sql",
+      "flask",
+      "fastapi",
+      "aws"
+    ],
+    "description": "Backend Developer responsible for building REST APIs, handling databases, implementing business logic, and deploying scalable backend systems using Python, Java, Flask, FastAPI, SQL databases, and cloud platforms like AWS."
+  },
+
+  "Frontend Developer": {
+    "skills": [
+      "react",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "description": "Frontend Developer responsible for building responsive user interfaces using React, JavaScript, HTML, and CSS. Focuses on UI components, user experience, performance optimization, and integration with backend APIs."
+  },
+
+  "Data Analyst": {
+    "skills": [
+      "sql",
+      "python",
+      "excel",
+      "data analysis"
+    ],
+    "description": "Data Analyst responsible for analyzing datasets, writing SQL queries, performing data cleaning, creating reports, and generating insights using Python, Excel, and data visualization techniques."
+  }
+}
