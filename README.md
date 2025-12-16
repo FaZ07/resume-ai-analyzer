@@ -18,7 +18,9 @@ https://github.com/FaZ07/resume-ai-analyzer
 - Top job-role recommendations
 - Full-stack implementation (FastAPI + React)
 
-## Structure
+## 📁 Project Structure
+
+```
 resume-ai-analyzer/
 ├── app/
 │   ├── main.py
@@ -38,7 +40,7 @@ resume-ai-analyzer/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ## ⚙️ Tech Stack
 
