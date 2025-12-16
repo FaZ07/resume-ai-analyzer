@@ -96,26 +96,29 @@ Final Score = (Skill Score × 0.6) + (Semantic Score × 0.4)
 ```bash
 cd app
 uvicorn main:app --port 8001 --reload
+```
+
 API will be available at:
 
-arduino
-Copy code
+```
 http://localhost:8001
-Frontend (React + Vite)
-bash
-Copy code
+```
+
+---
+
+### Frontend (React + Vite)
+
+```bash
 cd frontend
 npm install
 npm run dev
+```
+
 Open in browser:
 
-arduino
-Copy code
+```
 http://localhost:5173
-yaml
-Copy code
-
----
+```
 
 ✨ Use Cases
 
